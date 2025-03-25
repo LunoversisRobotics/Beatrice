@@ -1,4 +1,10 @@
 **.obj
-**.o 
+**.o
+build/
+obj/
 bin/
 dep/
+
+**.sln
+**.vcxproj
+**.filters
